@@ -84,13 +84,3 @@ This project is released under an **educational-use license**.
 See the `LICENSE` file for details (or add one if needed).
 
 ---
-
-If you want, I can also:
-
-* Make it **shorter**
-* Rewrite it in a **more academic** tone
-* Add **build instructions**
-* Add **screenshots / diagrams**
-* Add a **legal-safe disclaimer** version for GitHub
-
-Just say the word.
