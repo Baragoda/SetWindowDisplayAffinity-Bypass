@@ -75,12 +75,3 @@ If you’d like to discuss the project or support future research:
 * **Telegram**: [@somerwork](https://t.me/somerwork)
 * **Donate (BTC)**:
   `bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4`
-
----
-
-## License
-
-This project is released under an **educational-use license**.
-See the `LICENSE` file for details (or add one if needed).
-
----
